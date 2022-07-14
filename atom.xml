@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://raster.team</id>
+    <title>Team Raster</title>
+    <updated>2022-07-14T12:35:51.690Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://raster.team"/>
+    <link rel="self" href="https://raster.team/atom.xml"/>
+    <subtitle>光栅组资源发布站</subtitle>
+    <logo>https://raster.team/images/avatar.png</logo>
+    <icon>https://raster.team/favicon.ico</icon>
+    <rights>All rights reserved 2022, Team Raster</rights>
+    <entry>
+        <title type="html"><![CDATA[【REAPER】简体中文语言包]]></title>
+        <id>https://raster.team/post/REAPER-Chinese_Simplified.ReaperLangPack/</id>
+        <link href="https://raster.team/post/REAPER-Chinese_Simplified.ReaperLangPack/">
+        </link>
+        <updated>2022-07-14T12:35:47.000Z</updated>
+        <summary type="html"><![CDATA[<p>🎉  没错！这个由我耗时了几个月时间深度打磨的汉化包终于发布啦~！<br>
+💴  完全免费。<br>
+📅  最后更新时间：2022年7月14日<br>
+ℹ️  版本：6.64</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>🎉  没错！这个由我耗时了几个月时间深度打磨的汉化包终于发布啦~！<br>
+💴  完全免费。<br>
+📅  最后更新时间：2022年7月14日<br>
+ℹ️  版本：6.64</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【教程】如何不写代码就提取或转换含有多张图片的 .heic]]></title>
+        <id>https://raster.team/post/Tutorial-Unpack_HEIC/</id>
+        <link href="https://raster.team/post/Tutorial-Unpack_HEIC/">
+        </link>
+        <updated>2022-05-07T02:20:39.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【macOS】macOS 12+ 的系统壁纸位置]]></title>
+        <id>https://raster.team/post/macos-ru-he-ti-qu-macos-12-de-xi-tong-bi-zhi/</id>
+        <link href="https://raster.team/post/macos-ru-he-ti-qu-macos-12-de-xi-tong-bi-zhi/">
+        </link>
+        <updated>2022-04-24T10:14:51.000Z</updated>
+        <summary type="html"><![CDATA[<p>要说系统自带的壁纸，那 macOS 的指定排得上号。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>要说系统自带的壁纸，那 macOS 的指定排得上号。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Tools】选择你的DAW]]></title>
+        <id>https://raster.team/post/tools-xuan-ze-ni-de-daw/</id>
+        <link href="https://raster.team/post/tools-xuan-ze-ni-de-daw/">
+        </link>
+        <updated>2022-03-20T12:54:37.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Plan】FS]]></title>
+        <id>https://raster.team/post/planfs/</id>
+        <link href="https://raster.team/post/planfs/">
+        </link>
+        <updated>2021-12-23T02:42:33.000Z</updated>
+        <summary type="html"><![CDATA[<blockquote>
+<p>He who has ears to hear, let him hear<br>
+For this is a tale of an ancient kind<br>
+In the word there lies existence and the word became flesh<br>
+And dwelt among us and we saw its glory<br>
+Let him hear it who will<br>
+——《Origins》@Eluveitie</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<blockquote>
+<p>He who has ears to hear, let him hear<br>
+For this is a tale of an ancient kind<br>
+In the word there lies existence and the word became flesh<br>
+And dwelt among us and we saw its glory<br>
+Let him hear it who will<br>
+——《Origins》@Eluveitie</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【Live2D】洛凩_Normal_1.0]]></title>
+        <id>https://raster.team/post/Live2D-Raku_Kogarashi_Normal_1.0/</id>
+        <link href="https://raster.team/post/Live2D-Raku_Kogarashi_Normal_1.0/">
+        </link>
+        <updated>2021-05-10T11:25:00.000Z</updated>
+        <summary type="html"><![CDATA[<p><font color="#966495">你这老虎怎么虎里虎气的……🥴</font><br>
+Live2D模型《洛凩_1.0_Normal》现在正式公开。欢迎使用。使用时，请遵守EULA。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p><font color="#966495">你这老虎怎么虎里虎气的……🥴</font><br>
+Live2D模型《洛凩_1.0_Normal》现在正式公开。欢迎使用。使用时，请遵守EULA。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[本站建站所用到的教程、工具还有服务]]></title>
+        <id>https://raster.team/post/jian-zhan-suo-yong-de-gong-ju-yu-fu-wu-huan-you-jiao-cheng/</id>
+        <link href="https://raster.team/post/jian-zhan-suo-yong-de-gong-ju-yu-fu-wu-huan-you-jiao-cheng/">
+        </link>
+        <updated>2021-01-12T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>感谢以下的个人与组织提供的支持。<br>
+如果你也有自己搭建一个的意图，不妨参考一下本篇文章~</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>感谢以下的个人与组织提供的支持。<br>
+如果你也有自己搭建一个的意图，不妨参考一下本篇文章~</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【UST】万物生]]></title>
+        <id>https://raster.team/post/ust-WanWuSheng/</id>
+        <link href="https://raster.team/post/ust-WanWuSheng/">
+        </link>
+        <updated>2018-12-15T16:00:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【UTAU】辰音タツ_日本語_VCV_Beta_0.9]]></title>
+        <id>https://raster.team/post/UTAU-JA_JP-Shinne_Tatsu_Japanese_VCV_Beta_0.9/</id>
+        <link href="https://raster.team/post/UTAU-JA_JP-Shinne_Tatsu_Japanese_VCV_Beta_0.9/">
+        </link>
+        <updated>2018-11-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>連続音（VCV）形式の多音階UTAUライブラリー</p>
+<ul>
+<li>収録音階：A2、D3、G3、C4、F4</li>
+<li>中の人：辰遠</li>
+</ul>
+]]></summary>
+        <content type="html"><![CDATA[<p>連続音（VCV）形式の多音階UTAUライブラリー</p>
+<ul>
+<li>収録音階：A2、D3、G3、C4、F4</li>
+<li>中の人：辰遠</li>
+</ul>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【UTAU】辰远_中文_CVVC_1.3]]></title>
+        <id>https://raster.team/post/UTAU-ZH_CN-Shinne_Tatsu_Chinese_CVVC_1.3/</id>
+        <link href="https://raster.team/post/UTAU-ZH_CN-Shinne_Tatsu_Chinese_CVVC_1.3/">
+        </link>
+        <updated>2017-11-11T16:00:25.000Z</updated>
+        <summary type="html"><![CDATA[<p>这是一个UTAU使用的汉语CVVC多音阶声库</p>
+<ul>
+<li>收录音阶：E3、A3、E4</li>
+<li>适合音域：E2~F5</li>
+<li>中之人：辰远</li>
+</ul>
+]]></summary>
+        <content type="html"><![CDATA[<p>这是一个UTAU使用的汉语CVVC多音阶声库</p>
+<ul>
+<li>收录音阶：E3、A3、E4</li>
+<li>适合音域：E2~F5</li>
+<li>中之人：辰远</li>
+</ul>
+]]></content>
+    </entry>
+</feed>
